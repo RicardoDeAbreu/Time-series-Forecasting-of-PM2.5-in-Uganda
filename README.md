@@ -3,4 +3,6 @@ Three different deep learning models are used to forecast the concentration of P
 
 The three different model codes are provided, namely CNN, LSTM and CNN-LSTM. 
 
-Ensure that the correct data files are used.
+Ensure that the correct data files are downloaded from: 
+https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge
+
